@@ -1,6 +1,6 @@
-## Projeto relogio Digital
+## Projeto Pokedex Shiny
 
-![Search Box](https://imgur.com/a/wCXniYG)
+![Search Box](https://img.shields.io/badge/HTML-CSS-blu)
 
 ## 🌟 Sobre o Projeto
 
