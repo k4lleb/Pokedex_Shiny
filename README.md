@@ -1,6 +1,6 @@
 ## Projeto Pokedex Shiny
 
-![Search Box](https://img.shields.io/badge/HTML-CSS-blu)
+![Search Box](https://img.shields.io/badge/HTML-JS-orange)
 
 ## 🌟 Sobre o Projeto
 
