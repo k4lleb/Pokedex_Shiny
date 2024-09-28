@@ -6,7 +6,7 @@
 
 Este projeto implementa um elegante Relogio Digital usando HTML e CSS. Com um design minimalista, assim que implementar o relogio ele já vai marcar as horas exatas sem a necessidade de ajustar.
 
-![Relo](https://imgur.com/k3fCPs8.gif)
+![Pokedex](https://imgur.com/UJYm3RS.gif)
 
 ## 🎨 Recursos
 
