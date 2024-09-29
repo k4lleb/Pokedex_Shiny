@@ -1,40 +1,29 @@
 ## Projeto Pokedex Shiny
 
-![Search Box](https://img.shields.io/badge/HTML-JS-orange)
+![Search Box](https://img.shields.io/badge/HTML-Js-orange)
 
-## 🌟 Sobre o Projeto
+## <a href="https://emoji.gg/emoji/pokeball"><img src="https://cdn3.emoji.gg/emojis/pokeball.png" width="32px" height="32px" alt="pokeball"></a> Sobre o Projeto
 
-Este projeto implementa um elegante Relogio Digital usando HTML e CSS. Com um design minimalista, assim que implementar o relogio ele já vai marcar as horas exatas sem a necessidade de ajustar.
+Projeto de uma pokedex de pokemons shiny, design simples e lindo! agradel aos olhos de todo grande treinador Pokemon.
 
 ![Pokedex](https://imgur.com/UJYm3RS.gif)
 
 ## 🎨 Recursos
 
-- **HTML5 e CSS3**: Estrutura moderna e estilização usando boas práticas.
+- **HTML5, CSS3 e JS**: Estrutura moderna e estilização usando boas práticas.
+- PokeAPI: API utilizada para buscar os pokemons | https://pokeapi.co/
 - **Design Responsivo**: Adapta-se a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktop.
-- 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
+- **JS**
 - **Google Fonts**
-
-## 🛠️ Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/k4lleb/Relogio-digital.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd clock
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
-
+- 
 ## 💡 Personalização
 
-Você pode facilmente alterar as cores, fontes e tamanhos ajustando o arquivo `style.css` para adequar o design ao estilo do seu projeto.
+Você pode facilmente alterar de shiny para os pokemons normais, Vá no script.js e na linha 35 mude de ['front_shiny'] para ['front_default'].
 
 ## 📝 Licença
 
-Este projeto foi criado pela CodingNepal, todo os direitos dele.
+Este projeto foi criado pela Manual do Dev, todo os direitos dele.
