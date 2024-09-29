@@ -4,7 +4,7 @@
 
 ## <a href="https://emoji.gg/emoji/pokeball"><img src="https://cdn3.emoji.gg/emojis/pokeball.png" width="32px" height="32px" alt="pokeball"></a> Sobre o Projeto
 
-Projeto de uma pokedex de pokemons shiny, design simples e lindo! agradel aos olhos de todo grande treinador Pokemon.
+Projeto de uma pokedex de pokemons shiny, design simples e lindo! agradável aos olhos de todo grande treinador Pokemon.
 
 ![Pokedex](https://imgur.com/UJYm3RS.gif)
 
@@ -19,7 +19,7 @@ Projeto de uma pokedex de pokemons shiny, design simples e lindo! agradel aos ol
 - **CSS3**
 - **JS**
 - **Google Fonts**
-- 
+
 ## 💡 Personalização
 
 Você pode facilmente alterar de shiny para os pokemons normais, Vá no script.js e na linha 35 mude de ['front_shiny'] para ['front_default'].
